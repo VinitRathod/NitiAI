@@ -12,7 +12,7 @@ venv/
 .env
 
 # Data files (too large for GitHub)
-store_sales/*.csv
+# store_sales/*.csv
 data/*.parquet
 *.pkl
 *.joblib
